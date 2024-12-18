@@ -5,7 +5,7 @@ This is a an admin dashboard with great design.
 
 ![My Image](dark.png)
 
-![My Image](mobile-dark.png)    $~~~~~~~~~~~$                 ![My Image](mobile-light.png)
+![My Image](mobile-dark.png)    $~~~~~~~~~~~$   ![My Image](mobile-light.png)
 
 
 # Features:
